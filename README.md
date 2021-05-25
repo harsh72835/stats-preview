@@ -34,5 +34,5 @@ Users should be able to:
 ## Author
 
 - Website - [Harsh Patel]()
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/harsh72835)
-- Twitter - [@yourusername](https://twitter.com/0Harsh7)
+- Frontend Mentor - [@Harsh Patel](https://www.frontendmentor.io/profile/harsh72835)
+- Twitter - [@Harsh Patel](https://twitter.com/0Harsh7)
